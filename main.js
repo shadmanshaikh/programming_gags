@@ -6,7 +6,7 @@ async function loadNames() {
     // logs [{ name: 'Joker'}, { name: 'Batman' }]
     console.log(names.delivery,names.category);
     document.getElementById("info").innerHTML = "Joke: "+names.delivery +'<br>' + "Category: "+names.category +'<br>'+"author: "+shd;
-    document.getElementById("info").style.border = "2px solid blue";
+    document.getElementById("info").style.border = "2px solid powderblue";
   }
 loadNames();
 

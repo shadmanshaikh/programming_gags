@@ -26,7 +26,11 @@
 **Note**: your system should be connected to the internet to use it. 
 ## Usage
 
-Click on this extension ![This is an image](https://static.wixstatic.com/media/2db3d3_7f867c88b025479e9a728c276eea7588~mv2.png/v1/fill/w_17,h_17,al_c,lg_1,q_85,enc_auto/icon.png) Extension icon everytime you want a new programming joke 
+Click on this extension ![This is an image](https://github.com/shady4real/memes/blob/master/icon.png?raw=true) Extension icon everytime you want a new programming joke
+
+## Screenshots
+
+![myscreenshot](https://github.com/shady4real/jokes/blob/master/sample_img_2.png?raw=true)
 
 ## Support
 
