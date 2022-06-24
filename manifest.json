@@ -1,0 +1,12 @@
+{
+    "name": "programming Jokes",
+    "description":"All new programming jokes",
+    "version" : "1.0.0",
+    "manifest_version":3,
+    "author":"shadman",
+    "action":{
+        "default_icon":"icon.png",
+        "default_popup":"main.html",
+        "default_title":"Programming Jokes"
+    }
+}
